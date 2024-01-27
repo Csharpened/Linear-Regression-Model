@@ -1,4 +1,4 @@
-# Linear-Regression-Model
+# MPG-Prediction-Linear-Regression-Model
 - Made for practice in creating basic linear regressional neural network models
 - Model Predicts fuel efficiancy (MPG)
 - Google Colab and Tensorflow Framework used
